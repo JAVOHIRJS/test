@@ -1,1 +1,11 @@
 changes
+
+git init
+git remote add origin https://github.com/JAVOHIRJS/test.git
+git branch -M main
+
+
+//
+git add .
+git commit -m "Bu komentariya"
+git push origin main
